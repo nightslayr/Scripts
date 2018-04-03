@@ -1,3 +1,4 @@
+# This file creates the telnet service for linux machines
 # default: on
 # description: The telnet server serves telnet sessions; it uses
 # unencrypted username/password pairs for authentication
