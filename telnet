@@ -1,4 +1,4 @@
-# This file creates the telnet service for linux machines
+# This file creates and turns a telnet server on/off for linux machines
 
 # default: on
 # description: The telnet server serves telnet sessions; it uses
